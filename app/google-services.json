@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360686532202",
+    "firebase_url": "https://good-samaritan-56ee2.firebaseio.com",
+    "project_id": "good-samaritan-56ee2",
+    "storage_bucket": "good-samaritan-56ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360686532202:android:a68f152e2e4ca6503abc13",
+        "android_client_info": {
+          "package_name": "com.hackathon.goodsamaritan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360686532202-pddn9nri3vk3o5tf6m0421q6rtik42mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackathon.goodsamaritan",
+            "certificate_hash": "9b8766164abb07ad8796389ba1d7a29457992156"
+          }
+        },
+        {
+          "client_id": "360686532202-rbecfj0f41moblr6rjcouvtnlvlsujkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMh7dqO3Go2lwAOmfhwJK35flLPHQlrEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360686532202-rbecfj0f41moblr6rjcouvtnlvlsujkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

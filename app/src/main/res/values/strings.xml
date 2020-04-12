@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Good Samaritan</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="api_key">AIzaSyBgrtrEe8fveSLFTHYg5hphVlqQ0yqnJcs</string>
+    <string-array name="itemType">
+        <item>Toilet Paper</item>
+        <item>Food</item>
+        <item>Protective Gear</item>
+        <item>Medical Supplies</item>
+    </string-array>
+</resources>
